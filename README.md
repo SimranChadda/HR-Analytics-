@@ -1,4 +1,6 @@
-# HR Analytics Dashboard
+# HR-Analytics-Dashboard
+To provide insights to the HR specialist and Founder of AtliQ Technologies.
+
 This is a real-time challenge coming from HR Pinali Mandalia and founder Dhaval Patel from AtliQ Technologies.
 
 # Project Goal
