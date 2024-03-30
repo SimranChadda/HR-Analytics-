@@ -60,7 +60,7 @@ DIVIDE, CALCULATE,  VAR, COUNTROWS, IN, RETURN, SUM, NOT, SWITCH, FORMAT,
 
 ![HR Analytics Dashboard](https://github.com/SimranChadda/HR-Analytics-Dashboard/assets/54142296/301dc3f2-b866-44c6-9312-f9b780d401cb)
 
-# Important key takeaways/ Knowledge gained from this project:
+# Important key takeaways/ Knowledge gained from project:
 * Combining data from different sheets in Power BI.
 * Different calculated columns & DAX functions.
 * Understanding HR domain.
