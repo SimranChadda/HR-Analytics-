@@ -2,7 +2,7 @@
 This is a real-time challenge coming from HR Pinali Mandalia and founder Dhaval Patel from AtliQ Technologies.
 
 # Project Goal
-The job was to create a dashboard in Power BI that could analyze data to help HR automate tasks instead of manually going through attendance spreadsheets for hours.
+The job was to create a dashboard in Power BI that could analyze 3 months of data to help HR automate tasks instead of manually going through attendance spreadsheets for hours.
 
 # Requirements from HR
 
