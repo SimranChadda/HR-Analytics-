@@ -71,3 +71,4 @@ DIVIDE, CALCULATE,  VAR, COUNTROWS, IN, RETURN, SUM, NOT, SWITCH, FORMAT,
 * Copy and Paste visuals and alter them to boost our productivity.
 * Get a good understanding of googling my problems.
 * Developing analytical and visualization thinking.
+* Where to place your most important insights in the dashboard
